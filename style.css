@@ -1,0 +1,310 @@
+#emailInput {
+    margin-right: 20px;
+    margin-top: 11px;
+}
+
+#passwordInput{
+    margin-top: 11px;
+}
+
+#login {
+     margin-top: 35px;
+     margin-left: 20px;
+     background-color: #4267b2;
+     border-color: #29487d;
+     border-radius: 2px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
+    line-height: 18px;
+    padding: 2px 6px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: none;
+    vertical-align: top;
+    white-space: nowrap;
+    color: white;
+}
+
+#emailLabel{
+    font-size: 12px;
+    color: white;
+    font-family: inherit;
+    font-weight: 100;
+}
+
+#passwordLabel {
+    font-size: 12px;
+    color: white;
+    font-family: inherit;
+    font-weight: 100;
+}
+
+#forgotPass {
+    margin-bottom: 10px;
+    color:rgba(218, 218, 228, 0.616);
+    font-size: 12px;
+}
+
+#navbarImage {
+    width:212px;
+    height:74px;
+    margin-top: -6px;
+    margin-left: 50px;
+}
+
+body {
+    background-color: #e9ebee;
+}
+
+
+
+#img1 {
+    width:177px;
+    height:192px;
+    border-radius: 3px;
+}
+#img2 {
+    width:177px;
+    margin-left: 193px;
+    height:192px;
+    border-radius: 4px;
+    margin-top: -232px;
+    display: inline-block;
+}
+
+#firstP {
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
+    font-weight: bold !important;
+    letter-spacing: normal;
+    text-rendering: optimizelegibility;
+    font-size: 36px;
+}
+
+#secondP{
+    font-family: 'Freight Sans', Helvetica, Arial, sans-serif !important;
+    font-weight: normal !important;
+    letter-spacing: normal;
+    text-rendering: optimizelegibility;
+    font-size: 19px;
+    line-height: 126%;
+    margin-top: -6px;
+    display: inline-block;
+}
+
+#imgs {
+    margin-top: 45px;
+}
+#ash {
+    background-color: white;
+    height: 50px;
+    width:177px;
+    display: inline-block;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    margin-right: 20px;
+}
+
+#firstBox {
+    height: 230px;
+    background-color: white;
+    width: 177px;
+    border-radius: 3px;
+    margin-top: -35px;
+}
+
+#secondBox {
+    height: 200px;
+    background-color: red;
+    width:177px;
+    margin-left: 210px;
+    margin-top: -30px;
+    display: inline-block; 
+}
+
+#nameImg {
+    font-size: 20px;
+}
+
+#createP {
+    font-size: 36px;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
+    font-weight: bold !important;
+    letter-spacing: normal;
+    text-rendering: optimizelegibility;
+}
+
+#createP2 {
+    font-family: 'Freight Sans', Helvetica, Arial, sans-serif !important;
+    font-weight: normal !important;
+    letter-spacing: normal;
+    text-rendering: optimizelegibility;
+    font-size: 19px;
+    line-height: 126%;
+    margin-top: -6px;
+    display: inline-block;
+}
+
+#firstName {
+    width: 200px;
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    position: relative;
+    -webkit-appearance: none;
+    border: 1px solid #ccd0d5;
+    height: 40px;
+    padding: 8px 10px;
+    font-size: 18px;
+}
+
+#surname {
+    width: 200px;
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    position: relative;
+    -webkit-appearance: none;
+    border: 1px solid #ccd0d5;
+    height: 40px;
+    margin-left: 20px;
+    padding: 8px 10px;
+    font-size: 18px;
+}
+
+#email{
+    width: 419px;
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    position: relative;
+    -webkit-appearance: none;
+    border: 1px solid #ccd0d5;
+    height: 40px;
+    padding: 8px 10px;
+    font-size: 18px;
+}
+
+#password {
+    width: 419px;
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    position: relative;
+    -webkit-appearance: none;
+    border: 1px solid #ccd0d5;
+    height: 40px;
+    padding: 8px 10px;
+    font-size: 18px;
+}
+
+#birthday{
+    height: 28px;
+    width: 50px;
+}
+#birthMonth{
+    height: 28px;
+    padding-left: 7px;
+    width:71px;
+}
+#birthYear{
+    height: 28px;
+    width: 65px;
+    padding-left: 7px;
+}
+
+#birthdayLabel {
+    color: #90949c;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+ #birthday{
+    margin-top: -20px;
+}
+
+#femaleLabel {
+    color: #1d2129;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 18px;
+    padding: 0 10px 0 3px
+}
+
+#maleLabel{
+    color: #1d2129;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 18px;
+    padding: 0 10px 0 3px
+}
+
+#genderLabel {
+    color: #90949c;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#lastP {
+    width:331px;
+    font-size: 12px;
+}
+
+#signupButton {
+    font-size: 19px;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
+    font-weight: bold !important;
+    letter-spacing: normal;
+    text-rendering: optimizelegibility;
+    line-height: 126%;
+    min-width: 194px;
+    padding: 7px 20px;
+    text-align: center;
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    border: 1px solid;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    letter-spacing: 1px;
+    position: relative;
+    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+    margin-top: 10px;
+    
+}
+
+#rule {
+    background-color: red;
+    width:400px;
+}
+
+#formInput {
+    border-bottom: 1px rgba(156, 156, 156, 0.253) solid;
+    width: 420px;
+    padding-bottom: 18px;
+}
+
+#endP {
+    margin-top: 17px;
+}
+
+.left2 {
+    padding-left: 90px;
+}
+
+.size {
+    margin-left: 0px;
+}
+
+#numCount {
+    border-radius : 16px;
+    background-color: rgb(0, 255, 157);
+    width: 20px;
+    color: white;
+    margin-left: -146px;
+    margin-top: -228px;
+}
